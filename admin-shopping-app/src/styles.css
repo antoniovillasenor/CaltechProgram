@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    background-image: url("https://img.freepik.com/free-vector/gradient-dynamic-lines-background_23-2149005728.jpg?w=996&t=st=1702159396~exp=1702159996~hmac=cd414a001aea8141d113e7436856a5b1c635ea44981899e4d0e0434c13074902");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+html {
+    height: 100%
+}
+
+.rowSpace{
+    margin: 10px;
+  }
+
+  .table-bordered{
+    border-color: red;
+  }
